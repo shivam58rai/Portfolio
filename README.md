@@ -22,6 +22,8 @@ It includes my work, resume, and all ways to contact me.
 **Frontend** | HTML, CSS, JavaScript  
 **Styling** | CSS / Tailwind / Bootstrap *(if used)*  
 **Version Control** | Git & GitHub  
+
+live--https://portfolio-shivamray66.vercel.app/
 **Hosting** | GitHub Pages / Vercel  
 
 ---
